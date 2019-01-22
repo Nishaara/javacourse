@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package macchina;
 
 public interface Componente {
     public String getNumeroDiSerie();

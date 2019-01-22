@@ -1,4 +1,4 @@
-import macchina.Componente;
+package macchina;
 
 public class Ruota implements Componente {
 
